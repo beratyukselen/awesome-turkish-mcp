@@ -32,6 +32,7 @@ Tüm girişler açık kaynaktır ve aksi belirtilmedikçe yerel (stdio) çalış
 ## Finans & Piyasalar
 
 - [borsa-mcp](https://github.com/saidsurucu/borsa-mcp) - Borsa İstanbul (BIST) hisseleri, yatırım fonları, döviz ve makro verisi; ABD piyasaları ve kripto ile birlikte.
+- [ekonomikosesi-mcp](https://ekonomikosesi.com/api/mcp) (uzak Streamable HTTP) — Ekonomi Köşesi haberlerine, gazete manşet arşivine, Borsa İstanbul ve TEFAS fon verilerine kimlik doğrulamasız salt okunur erişim sunan MCP sunucusu.
 
 ## Akademik & Araştırma
 
