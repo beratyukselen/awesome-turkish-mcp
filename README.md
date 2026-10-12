@@ -32,6 +32,7 @@ All entries are open source and, unless noted, run locally (stdio). Contribution
 ## Finance & Markets
 
 - [borsa-mcp](https://github.com/saidsurucu/borsa-mcp) - Borsa İstanbul (BIST) equities, mutual funds, FX and macro data, alongside US markets and crypto.
+- [ekonomikosesi-mcp](https://ekonomikosesi.com/api/mcp) (remote Streamable HTTP) — Free, read-only MCP server providing access to Turkish news, front-page newspaper archives, Borsa İstanbul (BIST), and TEFAS fund data.
 
 ## Academic & Research
 
